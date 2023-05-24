@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9d61c95edddf0b4aa2170b2f270afa7, type: 3}
+  m_Name: New Activation_Grenade
+  m_EditorClassIdentifier: 
+  displayName: GrenadeSPECIFY
+  displayDescription: This is the Description of GrenadeSPECIFY
+  displaySprite: {fileID: 0}
+  displayLevel: 0
+  amount: 0
+  type: Grenade
+  weight: 0
+  ID: 0

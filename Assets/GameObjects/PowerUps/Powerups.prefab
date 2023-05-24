@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7544074155994882056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7544074155994882057}
+  - component: {fileID: 7544074155994882058}
+  m_Layer: 0
+  m_Name: Powerups
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7544074155994882057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7544074155994882056}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7544074155994882058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7544074155994882056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bb2ed51da42ed74f8c18f897a705b8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  powerupController: {fileID: 127720492445939868, guid: 109be24fe696cae4ba33a188c33de605, type: 3}
+  powerupList:
+  - {fileID: 11400000, guid: 7d0a1ba261e1d354586078faade93bcb, type: 2}
+  - {fileID: 11400000, guid: b40a528fab069aa4e9c2308361a1fe30, type: 2}
+  - {fileID: 11400000, guid: 21c195d710c3d1a4f848ac2879714cc7, type: 2}
+  - {fileID: 11400000, guid: 5729062a602bf024c872831254bc6853, type: 2}
+  - {fileID: 11400000, guid: c8ccb4c8a19b5504787e22f78ad0d87b, type: 2}
+  - {fileID: 11400000, guid: f2963d102eb9b53449b2c781d9b89617, type: 2}
+  - {fileID: 11400000, guid: adbb4f2f5c494ac4684bd0c2db385ad2, type: 2}
+  - {fileID: 11400000, guid: 9fc6189befcd3ef4eb251111174cf894, type: 2}
+  - {fileID: 11400000, guid: 87cbc856a39ab4d4d9e5754a9d84faca, type: 2}
+  - {fileID: 11400000, guid: 81250e2035dd2dd4b9b8728c66231467, type: 2}
+  - {fileID: 11400000, guid: 14a918f1ccfe3e349a0c8b74bfa0b48f, type: 2}
+  - {fileID: 11400000, guid: 6ac6ca1331baede40abfbf592b4c9e48, type: 2}
+  - {fileID: 11400000, guid: c1d17a1f63a3da84f83d246c37c97516, type: 2}
+  - {fileID: 11400000, guid: 3675176847febbe4babeeb767c5963ea, type: 2}
+  - {fileID: 11400000, guid: 8766294d88968a44ebb2c0e7c23215dc, type: 2}
+  - {fileID: 11400000, guid: 91c0611663ffdf8468aa52ad2a76ee1f, type: 2}
+  - {fileID: 11400000, guid: 5e9cd9fc4744011498084b1b7e10f181, type: 2}
+  - {fileID: 11400000, guid: e7a40a929fb41fd408e3c511a9a75faa, type: 2}
+  - {fileID: 11400000, guid: 6fcaba3a649b7874a889e5667a717ca3, type: 2}
+  - {fileID: 11400000, guid: 072967777b9001447b278b9183a69422, type: 2}
+  - {fileID: 11400000, guid: 0f263c6a75176b743972d20b218d5758, type: 2}
+  - {fileID: 11400000, guid: 9dbc5da18e1ff254dbb189c207e289da, type: 2}
+  levelZeroList: []
+  levelOneList: []
+  levelTwoList: []
+  levelThreeList: []
+  levelFourList: []
+  levelFiveList: []
+  levelSixList: []
+  unlockedLevelZeroList: []
+  unlockedLevelOneList: []
+  unlockedLevelTwoList: []
+  unlockedLevelThreeList: []
+  unlockedLevelFourList: []
+  unlockedLevelFiveList: []
+  unlockedLevelSixList: []
+  amountOfLevelZero: 0
+  amountOfLevelOne: 0
+  amountOfLevelTwo: 0
+  amountOfLevelThree: 0
+  amountOfLevelFour: 0
+  amountOfLevelFive: 0
+  amountOfLevelSix: 0
+  initialLevelZeroWeight: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0286eab07b4a64b4680a5d3fd6d534a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weapon: {instanceID: 0}
+  - EnemyPrefab: {fileID: 2075295970593523469, guid: d2f51d59d95f5fb4b9649b205047d1f2, type: 3}
+  - Crate: {fileID: 3918696390032643674, guid: 8d06786e4930db44f8d2a4ce1ce1da7c, type: 3}
+  - DronePrefab: {fileID: 3534529931047055266, guid: f728c1c27587d1040bc23a955be3655b, type: 3}
+  - PowerupController: {fileID: 127720492445939868, guid: 109be24fe696cae4ba33a188c33de605, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
