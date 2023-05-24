@@ -9,8 +9,16 @@ Enemy types:
 - Big Enemy (slower and bigger)
 - Enemy
 - Small Enemy (faster)
-
 Only the normal one will spawn, the rest is implemented but not made into a spawning algorithm.
+
+Weapon types:
+- Grenade
+- Rocket Launcher
+- Swarm Rocket
+- Big Shot
+- ?
+
+
 
 Short explanation regarding the upgrading algorithm:
 The probability of each weapon is based on the total N of guns. E.g. if there are 5 guns, each probability to showing up in the selection menu is 20%.
@@ -22,3 +30,5 @@ If one gun is taken, the other guns retain their probability. The now 20% freed 
 
 **How to use this repository:**
 - Download everything and then open it with the GitHub Launcher
+
+You can export this game as an apk. The controller works with the touchscreen.
